@@ -1,0 +1,21 @@
+name: my_project
+version: '2'
+
+models:
+  my_schema:
+    + my_model:
+        + my_column:
+            type: integer
+
+data-paths: ["data"]
+
+target: "postgres"
+
+vars:
+  postgres:
+    host: "localhost"
+    port: "548"
+    user: "root"
+    pass: "123"
+    dbname: "raw_data"
+    schema: "ans"
