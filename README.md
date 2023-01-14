@@ -5,3 +5,5 @@ Desafio Engenheiro dos dados.
 
 
 obs : Criei os codigos de acordo com o que eu consegui compreender, não sei se está correto, aguardo feedbacks para melhorias. 😁
+
+obs : Insira suas crendencias do banco de dados e na string de conexão.
